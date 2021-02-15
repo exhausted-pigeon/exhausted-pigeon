@@ -1,8 +1,6 @@
 /**
 *Program: Calculator
 *This: Calculator.java
-*Author: Stephanie Gomez
-*Professor: Dr. Rafeeq Al-Hashemi
 *Date: February 13, 2021
 *Purpose: This program will take input from the user as a string and then take away
 *         any whitespaces, read and then calculate the solution.
